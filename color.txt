@@ -1,0 +1,8 @@
+
+yellow - #ffc107
+
+light yellow - #ffe69c
+
+grey - #f8f9fa
+
+dark grey - #343a40
